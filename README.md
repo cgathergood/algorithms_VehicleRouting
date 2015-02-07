@@ -1,7 +1,7 @@
 # algorithms_VehicleRouting
 University Coursework, my solution for solving the Vehicle Routing Problem.
 
-The report details the development process and results. If you want to look at my algorithm in full you can find it in VRSolution.java called mySolver().
+The <a href="files/Coursework Report.pdf" target="_blank">report</a>(hosted here) details the development process and results. If you want to look at my algorithm in full you can find it in VRSolution.java called mySolver().
 
 If you want to run the code to see it for yourself, add all of the files to an eclipse project then run MkProblem.java. This will create the test problems. Once you have these you can run VRSolution.java and VRTests.java.
 
